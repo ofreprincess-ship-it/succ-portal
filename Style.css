@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    background-color: #fff0f7;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+ h1 {
+    align-items: centre;
+    color: #1e3a8a;
+}
+
+ h2 {
+    color: purple; 
+}
+
+results-title{
+    text-align: centre;
+    color:₦5b176e;
+}
+
+/* REQUIRED STAR */
+
+label span {
+    display: block 
+    color: red;
+    font-weight:bold
+}
+  
+
+input,
+select,
+textarea;{
+    margin:5px;
+    padding:11px;
+    border:20px solid #888;
+    border-radius:#fff8fc;
+}
+
+button {
+    padding: 14px;
+    background-color:#8e2de2;
+    color: white smoke;
+    border: none;
+    border-radius:#fff8fc;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background-color: #8e2de2;
+    color: white;
+    padding: 12px;
+}
+
+td {
+    padding: 11px;
+    text-align: center;
+    border: 1px solid #d9a7ff;
+}
